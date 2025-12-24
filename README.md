@@ -11,7 +11,7 @@ This project demonstrates how AI can be applied as a **system**, not a black box
 ---
 
 ## Why this exists
-In real organizations, AI initiatives fail less due to modeling and more due to:
+Organizations initiatives, including newer AI-driven ones; tend to fail less because of the technology and more because of how decisions, alignment, and execution are handled.
 - Poor intake quality
 - Misaligned stakeholders
 - Unclear risk ownership
@@ -42,7 +42,13 @@ All outputs are deterministic, explainable, and designed for executive consumpti
 4. Decision logic translates score bands into actions
 5. Explanations and guardrails are generated automatically
 
-No opaque models. No hidden logic. Trust by design.
+
+---
+
+
+## Screenshots
+![Intake](docs_screenshots_intake.png)
+![Decision Output](docs_screenshots_output.png)
 
 ---
 
