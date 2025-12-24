@@ -2,7 +2,7 @@ from __future__ import annotations
 from dataclasses import dataclass
 from typing import List, Tuple
 import numpy as np
-from .schema import ProjectInput, DecisionOutput
+from schema import ProjectInput, DecisionOutput
 
 @dataclass(frozen=True)
 class Weights:

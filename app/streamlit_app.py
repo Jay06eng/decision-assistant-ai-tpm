@@ -1,11 +1,10 @@
 import os
-import sys
-
-
 import streamlit as st
 import pandas as pd
-from app.schema import ProjectInput
-from app.decision_engine import run_decision
+
+from schema import ProjectInput
+from decision_engine import run_decision
+
 
 st.set_page_config(
     page_title="Decision Assistant",
