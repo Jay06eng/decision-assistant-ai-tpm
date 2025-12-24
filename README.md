@@ -47,8 +47,9 @@ All outputs are deterministic, explainable, and designed for executive consumpti
 
 
 ## Screenshots
-![Intake](docs_screenshots_intake.png)
-![Decision Output](docs_screenshots_output.png)
+![Intake](docs/screenshots/intake.png)
+![Decision Output](docs/screenshots/output.png)
+
 
 ---
 
