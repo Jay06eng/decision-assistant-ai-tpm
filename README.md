@@ -6,7 +6,7 @@ An AI-enabled decision system that helps program and business leaders make **GO 
 This project demonstrates how AI can be applied as a **system**, not a black box. It mirrors real Technical Program Management ownership across ambiguity, risk, and scale.
 
 ## 🔗 Live Demo
-👉 [DEMO](http://localhost:8501/)
+👉 [DEMO](https://decision-assistant-ai-tpm-dxgnv79fzemck3k2c6w8zj.streamlit.app/)
 
 ---
 
