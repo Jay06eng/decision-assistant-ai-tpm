@@ -1,0 +1,6 @@
+project_name,objective,team_size,duration_weeks,estimated_cost_usd,customer_impact,strategic_alignment,technical_complexity,delivery_risk,compliance_risk,dependencies_count,has_exec_sponsor
+Catalog verification automation,Reduce fraudulent catalog edits with automated verification and approval workflow,10,16,300000,5,5,4,3,3,6,TRUE
+New internal dashboard v2,Improve reporting UX for internal stakeholders and reduce manual exports,4,8,60000,3,3,2,2,1,2,FALSE
+Payment routing optimization,Reduce payment failures and improve authorization rates via routing logic changes,12,20,800000,5,4,5,4,4,9,TRUE
+Customer support deflection MVP,Deflect top 5 contact reasons with guided flows and self-service,6,10,120000,4,4,3,3,2,5,TRUE
+Legacy migration phase 1,Migrate legacy service to modern stack to reduce incidents and tech debt,14,32,1500000,3,4,5,4,3,12,TRUE
